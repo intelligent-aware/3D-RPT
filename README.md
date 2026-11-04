@@ -7,4 +7,4 @@ Accurate space target surveillance and tracking are critical for enhancing space
 
 ## Point Tracking Evaluation
 
-![](visualization/Point Tracking Evaluation.png)
+![](visualization/Point_Tracking_Evaluation.png)
